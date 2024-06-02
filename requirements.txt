@@ -1,0 +1,11 @@
+accelerate
+"pandas<2.0.0"
+transformers
+tqdm
+datasets
+setfit
+torch
+sentence-transformers
+seaborn
+tiktoken
+openai
